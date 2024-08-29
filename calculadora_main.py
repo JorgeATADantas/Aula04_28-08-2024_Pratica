@@ -1,3 +1,7 @@
+
+def subtract(x, y):
+    return x - y
+
 def main():
     print("Selecione a operação:")
     print("1. Adição")
