@@ -1,3 +1,8 @@
+def divisao(x, y):
+    if y != 0:
+        return x / y
+    else:
+        return "Erro! Divisão por zero."
 def main():
     print("Selecione a operação:")
     print("1. Adição")
